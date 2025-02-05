@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Ali-saif101
-- 👀 I’m interested in Data Science, Python, SQl
-- 🌱 I’m currently learning Analysis 
-- 💞️ I’m looking to collaborate on Neural network based AI project
-- 📫 How to reach me smir@ltu.edu
-- ⚡ Fun fact: ... I'm a diamond leauge Valorant player.
-
-
+- 👋 Hi, I’m @Ali-saif101 – a dedicated Data Science and Python enthusiast with over 3 years of hands-on experience in analytics and SQL.
+- 👀 Passionate about transforming data into actionable insights and crafting robust neural network solutions.
+- 🌱 Constantly expanding my expertise in advanced data analysis and machine learning.
+- 💞️ Open to collaboration on innovative AI projects that push the boundaries of neural network technology.
+- 📫 Reach out via email at smir@ltu.edu for opportunities, insights, or just a tech chat.
+- ⚡ Fun fact: When I'm not coding, you can catch me dominating in Valorant – I'm a proud member of the Diamond League.
